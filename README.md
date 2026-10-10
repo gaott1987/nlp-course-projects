@@ -27,6 +27,7 @@ For detailed content of each experiment, please refer to its own README
 
 ## Repository Structure
 
+```
 nlp-course-projects/
 ├── README.md # English main README
 ├── README_zh.md # Chinese main README
@@ -37,7 +38,7 @@ nlp-course-projects/
 ├── 04-docred-relation-extraction/
 ├── 05-judicial-reading-comprehension/
 └── 06-covid-rumor-detection/
-
+```
 
 ## Experiments at a Glance
 

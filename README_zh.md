@@ -21,6 +21,8 @@
 `01-word2vec-transe/README_zh.md`）。
 
 ## 仓库结构
+
+```
 nlp-course-projects/
 ├── README.md # 英文主 README
 ├── README_zh.md # 中文主 README
@@ -31,7 +33,7 @@ nlp-course-projects/
 ├── 04-docred-relation-extraction/
 ├── 05-judicial-reading-comprehension/
 └── 06-covid-rumor-detection/
-
+```
 
 ## 六个实验总览
 
